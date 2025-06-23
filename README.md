@@ -13,3 +13,5 @@
 * **Java:** 17+ (버전 확인 필요)
 * **의존성 관리:** Gradle 
 
+## 대상 글
+https://crazy-code.tistory.com/12 , https://crazy-code.tistory.com/13
